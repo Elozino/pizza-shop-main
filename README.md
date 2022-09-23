@@ -1,1 +1,1 @@
-[https://fudo-project.sanity.studio/]
+["CMS LINK"](https://fudo-project.sanity.studio/)
