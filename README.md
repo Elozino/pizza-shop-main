@@ -1,1 +1,1 @@
-["https://fudo-project.sanity.studio/"]
+[https://fudo-project.sanity.studio/]
